@@ -18,7 +18,7 @@
     "expo-status-bar": "~1.6.0",
     "expo-web-browser": "~12.3.2",
     "react": "18.2.0",
-    "react-native": "0.72.10",
+    "react-native": "0.72.15",
     "react-native-passkey": "2.1.1",
     "react-native-webview": "13.2.2",
     "expo-linking": "~5.0.2"
